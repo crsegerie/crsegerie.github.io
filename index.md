@@ -20,7 +20,7 @@ The human brain combines top-down and bottom-up signals. Bottom-up signals resul
 <h3><a href="https://github.com/clement-bonnet/belief-propagation">Graphical Models</a></h3>
 <img src="images/projects/Factorgraph.jpg?raw=true"/>
 
-I worked on the Belief Propagation algorithm, and unified the notations between causal Bayesian graphs and factor graphs. Take the time to look at our report, which contains some very nice math. We have also written a very versatile implementation of the belief propagation algorithm for factor graphs.
+I worked on the Belief Propagation algorithm, and unified the notations between causal Bayesian graphs and factor graphs. Take the time to look at our report, which contains some very nice maths. We have also written a very versatile implementation of the belief propagation algorithm for factor graphs.
 
 ---
 
@@ -91,7 +91,7 @@ In this repository, you will find the winner's solution of the KIRO2018, in part
 <h3><a href="https://github.com/crsegerie/kiroptimiste/tree/master">KIRO2019</a></h3>
 <img src="images/projects/5G.jpg?raw=true"/>
 
-In this repository, you will find the winner's solution of the extended competition of KIRO2019. We efficiently built the graph of 5G antennas connected by optical fiber in major French cities.
+In this repository, you will find the winner's solution of the extended competition of the KIRO2019. We efficiently built the graph of 5G antennas connected by optical fiber in major French cities.
 
 ---
 
