@@ -1,6 +1,11 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Charbel-Raphaël Segerie # your name (or website title) here
+logo: "/images/circle_me.PNG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hi, I am a researcher in Artificial Intelligence.
+  <br><br>
+  I also have a penchant for neuroscience, philosophy and music.
+  <br><br>
+  <a href="https://www.linkedin.com/in/charbel-raphael-segerie/">View My LinkedIn Profile</a> 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
