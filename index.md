@@ -13,7 +13,7 @@ SinGAN is a generative model that can be learned from a single natural image. We
 <h3><a href="https://github.com/crsegerie/modular_neural_networks">I've proposed a new attention architecture</a></h3>
 <img src="images/projects/architecture.PNG?raw=true"/>
 
-The human brain combines top-down and bottom-up signals. Bottom-up signals result from direct perception, while top-down signals take into account past experience. The incorporation of top-down attention in neural networks would allow to increase their performance, because they are currently based only on bottom-up signals.
+The human brain combines top-down and bottom-up signals. Bottom-up signals result from direct perception, while top-down signals take into account past experience.
 
 ---
 
@@ -115,6 +115,5 @@ Boogie-Woogie is great fun to play on the piano, and it's also pretty easy to au
 <img src="images/projects/Escher.jpg?raw=true"/>
 
 In this essay, I use concepts from Gestalt psychology to describe the patterns of the birds of Escher and I play with the attention of the viewer. Gestalt psychology is in a way the ancestor of the interpretability of neural networks in vision processing.
-
 
 ---

@@ -1,11 +1,14 @@
 title: Charbel-Raphaël Segerie # your name (or website title) here
 logo: "/images/circle_me.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I am a researcher in Artificial Intelligence.
+  Welcome to my website.
+  <br><br>
+  I'm an Applied Mathematics and Computer Science student at <a href="https://en.wikipedia.org/wiki/%C3%89cole_des_ponts_ParisTech">Ecole des Ponts ParisTech</a>. 
+  I'm currently doing the Master of Research <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-161721.kjsp?RH=1409824973905">MVA</a> at <a href="https://fr.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay">École Normale Supérieure Paris-Saclay</a>.
   <br><br>
   I also have a penchant for neuroscience, philosophy and music.
   <br><br>
-  <a href="https://www.linkedin.com/in/charbel-raphael-segerie/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/charbel-raphael-segerie/">View My LinkedIn Profile</a>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
