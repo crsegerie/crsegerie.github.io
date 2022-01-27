@@ -111,7 +111,7 @@ Boogie-Woogie is great fun to play on the piano, and it's also pretty easy to au
 
 ---
 
-<h3><a href="pdf/Course2-SEGERIE-Charbel-Raphael.pdf">Gestalt Essay</a></h3>
+<h3><a href="https://omniscience.academy">Gestalt Essay</a></h3>
 <img src="images/projects/Escher.jpg?raw=true"/>
 
 In this essay, I use concepts from Gestalt psychology to describe the patterns of the birds of Escher and I play with the attention of the viewer. Gestalt psychology is in a way the ancestor of the interpretability of neural networks in vision processing.
