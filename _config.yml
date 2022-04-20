@@ -1,6 +1,7 @@
 title: Charbel-Raphaël Segerie # your name (or website title) here
-logo: "/images/circle_me.PNG?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/me_facebook.PNG?raw=true" # your photo (or logo) here
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my website.
   <br><br>
   I'm an Applied Mathematics and Computer Science student at <a href="https://en.wikipedia.org/wiki/%C3%89cole_des_ponts_ParisTech">Ecole des Ponts ParisTech</a>. 
@@ -12,5 +13,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-baseurl: 
+baseurl:
 url: http://crsegerie.github.io
