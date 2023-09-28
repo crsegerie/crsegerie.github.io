@@ -2,8 +2,6 @@
 
 🆕 [Textbook draft](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.s5znjvp3l4zi) 🆕 | [Short bio](/bio)
 
----
-
 ## Teaching
 
 **MVA:** I teach at the MVA Master's program of ENS Paris-Saclay the course [Turing Seminar – An introduction to AGI Safety](https://www.master-mva.com/cours/seminaire-turing/).
