@@ -1,5 +1,3 @@
-# Portfolio
-
 [Teaching](#teaching) | [Research](#research)| [Entrepreneur](#entrepreneur)| [Softwares](#softwares)| [Fun](#fun)
 
 🆕 [Textbook draft](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.s5znjvp3l4zi) 🆕 | [Short bio](/bio)
