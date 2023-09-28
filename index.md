@@ -1,8 +1,76 @@
-# Portfolio 
+# Portfolio
+
+[Teaching](#teaching) | [Research](#research)| [Entrepreneur](#entrepreneur)| [Softwares](#softwares)| [Fun](#fun)
+
+🆕 [Textbook draft](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.s5znjvp3l4zi) 🆕
 
 ---
 
-## My projects in AI
+## Teaching
+
+**MVA:** I teach at the MVA Master's program of ENS Paris-Saclay the course [Turing Seminar – An introduction to AGI Safety](https://www.master-mva.com/cours/seminaire-turing/).
+
+**ML4Good Summer school:** I designed the program for the international [ML4Good bootcamps](https://germany.ml4good.org/) to help master's students and young researchers upskill in AI safety. The program has been conducted three times in France, twice in Switzerland, and once in Germany.
+
+**Training Day at ENS Ulm:** I gave a series of lectures over an entire day at ENS Ulm to introduce technical AI safety. The lecture series is available as a [YouTube playlist](https://ia.effisciences.org/travaux/playlist-de-conferences-de-la-journee-de-formation-en-surete-de-lia).
+
+**Responsible ML:** I contributed to the [Responsible Machine Learning](https://www.master-mva.com/cours/responsible-machine-learning/) course of the MVA Master's program , to evaluate student groups on their technical AI safety projects.
+
+**MLAB, TA, Berkeley:** I was a TA in Berkeley during the [MLAB](https://www.cbai.ai/ml-bootcamp) which was a hands-on introduction to state-of-the-art ML techniques (e.g. transformers, deep RL, mechanistic interpretability).
+
+---
+
+## Research
+
+My research focuses on AI safety. I've worked notably on the theory of RLHF and interpretability, as well as safe by design AI approaches.
+
+Noteworthy papers and blog articles:
+
+- Ségerie, C. R., Against Almost Every Theory of Impact of Interpretability, 2023
+- Ségerie, C. R., Davidad's Bold Plan for Alignment: An In-Depth Explanation, 2023
+- Ségerie, C. R., Compendium of problems with RLHF, 2023
+- Casper, S., Davies, X., Shi, C., Gilbert, T. K., Scheurer, J., Rando, J., ... & Hadfield-Menell, D. (2023). Open problems and fundamental limitations of reinforcement learning from human feedback. arXiv preprint arXiv:2307.15217
+- Laurençon, H., Ségerie, C. R., Lussange, J., & Gutkin, B. S. (2021). Continuous homeostatic reinforcement learning for self-regulated autonomous agents. arXiv preprint arXiv:2109.06580.
+
+I've supervised several small research groups during the ML4Good training bootcamps, as well as student groups from the PSC of École Polytechnique, during the "apart research" hackathons, a hackathon I organized with Collège de France on AI safety, during the Entrepreneur First hackathon organized at Meta, and during the advanced upskilling program [ARENA](https://www.arena.education/team). For a selection of projects I've supervised, please refer to the [Effisciences AI website](https://ia.effisciences.org/).
+
+I was a speaker at the international conference "Funding the Common", where I delivered a [talk](https://www.linkedin.com/feed/update/urn:li:activity:7086721216278839296/) titled "Artificial General Intelligence Alignment: Difficulties in Current Techniques & Better Preference Elicitation".
+
+---
+
+## Entrepreneur
+
+### [Omniscience - A search engine for academic papers](https://omniscience.academy/)
+
+![Omniscience](images/projects/Screenshot_omniscience.png?raw=true)
+
+I was the CTO for a year at a 5-person startup, attempting to create a search engine for academic papers. This involved trying to use LLMs to help compile literature reviews semi-automatically, fine-tuning numerous AIs for specialized tasks, and building a semantic database engine. Unfortunately, the technology was not mature enough at the time. A writeup (about part of the journey) is available [here](https://docs.google.com/document/d/1l_RuZ6tx4gejNQUKNqJJYsl5PbRx7ApLCoIndGoSMxY/edit?usp=sharing). The website is no longer functional. The code is open-source [here](https://github.com/OmniscienceAcademy).
+
+---
+
+## Softwares
+
+### [Contributions to Open Source Projects](https://pricemoov.com/)
+
+![ML4Good bootcamp](images/projects/ML4Good.png?raw=true)
+
+I've contributed to numerous open-source projects:
+
+- [ML4G](https://github.com/EffiSciencesResearch/ML4G), the repository containing the practical sessions of the AI safety upskilling bootcamps. I'm the main developer of this course.
+- [mne-bids-pipeline](https://github.com/crsegerie/mne-bids-pipeline), a template for a group study using MNE Python software, for electroencephalographies.
+- [AutoML](https://github.com/crsegerie/automl), a library that facilitates active learning across different modalities. I'm was the main contributor of this repo.
+
+---
+
+### [Microeconomic Inference Library](https://pricemoov.com/)
+
+![Microeconomic Inference](images/projects/mcmc.png?raw=true)
+
+I interned at PriceMoove, where I built a microeconomic inference library that utilized hierarchical Bayesian machine learning. The code is proprietary and not open-source, but I'm very proud of it.
+
+---
+
+## Old projects
 
 <h3><a href="https://github.com/crsegerie/numerical_imaging">SinGAN analysis with PatchMatch algorithm</a></h3>
 <img src="images/projects/SinGAN.png?raw=true"/>
@@ -37,7 +105,6 @@ I've worked on the coherence of the nearest neighbor algorithm with the Bayesian
 In this repository, you will find my work done during the course of 3D computer vision. During the last TP, we reconstructed a face in 3D from two photos.
 
 ---
-
 
 <!-- ### My project in Data science
 
@@ -76,8 +143,7 @@ In this repo, I apply the methodology of MEG signal analysis using the MNE libra
 <img src="images/projects/ward_parcellation.png?raw=true"/>
 I worked on brain parcellation using Ward's statistics.
 -->
---- 
-
+---
 
 ## Competitions
 
