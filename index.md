@@ -1,6 +1,6 @@
 [Teaching](#teaching) | [Research](#research)| [Entrepreneur](#entrepreneur)| [Softwares](#softwares)| [Fun](#fun)
 
-🆕 [Textbook draft](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.s5znjvp3l4zi) 🆕 | [Short bio](/bio)
+🆕 [Textbook draft](https://ai-safety-atlas.com/) 🆕 | [Short bio](/bio)
 
 ## Teaching
 
@@ -158,6 +158,13 @@ In this repository, you will find the winner's solution of the extended competit
 ---
 
 ## Fun
+
+<h3><a href="https://www.lesswrong.com/posts/Ru2cDrre6D4gkf734/my-intellectual-journey-to-solve-the-hard-problem-of">Consciousness</a></h3>
+<img src=https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Ru2cDrre6D4gkf734/gdmnd3oxiw3jucut71ky?/>
+
+In this blog post, I claim to have disolved the hard problem of consciousness.
+
+---
 
 <h3><a href="pdf/Biostatistics_Exam_Segerie.pdf">Biostatistics</a></h3>
 <img src="images/projects/covid.jpg?raw=true"/>
