@@ -18,7 +18,9 @@
 
 ## Global Call for AI Red Lines
 
-I was the initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/), an international campaign calling for governance mechanisms to prevent catastrophic risks from artificial intelligence. The campaign achieved:
+![Global Call for AI Red Lines](images/global_call_image.jpg)
+
+I was the initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/), an international campaign calling for governance mechanisms to prevent catastrophic risks from artificial intelligence. Read more about the campaign [here](https://www.securite-ia.fr/post/lappel-mondial-a-etablir-des-lignes-rouges). The campaign achieved:
 
 - **Signatures from 10 Nobel laureates**, 9 former heads of state and ministers, industry senior staff, and 90+ organisations worldwide
 - **300 media mentions** in prestigious outlets worldwide (The New York Times, Time, BBC, NBC, Le Monde, etc.)
