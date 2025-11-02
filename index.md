@@ -16,6 +16,19 @@
 
 ---
 
+## Global Call for AI Red Lines
+
+I was the initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/), an international campaign calling for governance mechanisms to prevent catastrophic risks from artificial intelligence. The campaign achieved:
+
+- **Signatures from 10 Nobel laureates**, 9 former heads of state and ministers, industry senior staff, and 90+ organisations worldwide
+- **300 media mentions** in prestigious outlets worldwide (The New York Times, Time, BBC, NBC, Le Monde, etc.)
+- Introduction at the **UN General Assembly** by Nobel Peace laureate Maria Ressa
+- Highlighted by Yoshua Bengio at a **high-level meeting of the UN Security Council**
+
+The campaign opened a window for concrete multilateral action on AI governance and has been praised by many organizations.
+
+---
+
 ## Research
 
 My research focuses on AI safety. I've worked notably on the theory of RLHF and interpretability, as well as safe by design AI approaches.
