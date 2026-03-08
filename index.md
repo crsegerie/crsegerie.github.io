@@ -35,7 +35,7 @@ I was the initiator and co-lead of the [Global Call for AI Red Lines](https://re
 
 ### EU AI Act — Code of Practice
 
-Appointed **official evaluator** for the EU AI Office's Code of Practice for General-Purpose AI (2026–2028), Lot 4: Harmful Manipulation Risks — consortium with Apart Research, Transluce & EquiStamp. Contributed to all three rounds; recommendations included verbatim in the final draft.
+CeSIA is part of the **official evaluator consortium** for the EU AI Office's Code of Practice for General-Purpose AI (2026–2028), Lot 4: Harmful Manipulation Risks — alongside Apart Research, Transluce & EquiStamp. Contributed to all three rounds of the Code of Practice; recommendations included verbatim in the final draft.
 
 ![EU AI Office evaluator consortium](gallery/consortium.jpeg)
 
@@ -68,7 +68,7 @@ Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appea
 {: #positions}
 
 - **Executive Director & Co-Founder**, [CeSIA](https://www.securite-ia.fr/) (Centre pour la Sécurité de l'IA), Paris — Leading a 7-person team across three strategic tracks: France, Europe, and International (2024–present)
-- **Official Evaluator**, EU AI Office GPAI Code of Practice — Lot 4: Harmful Manipulation Risks (2026–2028)
+- **EU AI Act Code of Practice Evaluator** (via CeSIA), EU AI Office GPAI Code of Practice — Lot 4: Harmful Manipulation Risks (2026–2028)
 - **OECD AI Expert**, ONE AI Expert Network (2024–present)
 - **Head Teacher**, [Turing Seminar on AGI Safety](https://www.master-mva.com/cours/seminaire-turing/), ENS Paris-Saclay (MVA Master) & ENS Ulm — Created the first university-accredited course on general-purpose AI safety in the EU (2022–present)
 - **Founder & Curriculum Designer**, [ML4Good](https://germany.ml4good.org/) — EU Commission-funded programme replicated 20+ times across Europe, Latin America, and beyond; 98% participant recommendation rate; hundreds of alumni now in AI safety careers at EU AI Office, Mistral, MATS, GPAI Policy Lab, and more (2022–present)
