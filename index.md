@@ -1,203 +1,234 @@
-[Teaching](#teaching) | [Research](#research)| [Entrepreneur](#entrepreneur)| [Softwares](#softwares)| [Fun](#fun)
+<div class="nav-bar" markdown="0">
+<a href="#policy">Policy & Impact</a> |
+<a href="#positions">Positions</a> |
+<a href="#publications">Publications</a> |
+<a href="#teaching">Teaching</a> |
+<a href="#atlas">AI Safety Atlas</a> |
+<a href="#projects">Earlier Projects</a>
+</div>
 
-🆕 [Textbook draft](https://ai-safety-atlas.com/) 🆕 | [Short bio](/bio)
+Policy leader, AI researcher, and institution-builder working at the intersection of technical AI research, international governance, and education. Executive Director of [CeSIA](https://www.securite-ia.fr/), France's leading AI safety organization. Initiator of the [Global Call for AI Red Lines](https://red-lines.ai/) — endorsed by 12 Nobel laureates and presented at the UN General Assembly and Security Council.
 
-## Teaching
-
-**MVA:** I teach at the MVA Master's program of ENS Paris-Saclay the course [Turing Seminar – An introduction to AGI Safety](https://www.master-mva.com/cours/seminaire-turing/).
-
-**ML4Good Summer school:** I designed the program for the international [ML4Good bootcamps](https://germany.ml4good.org/) to help master's students and young researchers upskill in AI safety. The program has been conducted three times in France, twice in Switzerland, and once in Germany.
-
-**Training Day at ENS Ulm:** I gave a series of lectures over an entire day at ENS Ulm to introduce technical AI safety. The lecture series is available as a [YouTube playlist](https://ia.effisciences.org/travaux/playlist-de-conferences-de-la-journee-de-formation-en-surete-de-lia).
-
-**Responsible ML:** I contributed to the [Responsible Machine Learning](https://www.master-mva.com/cours/responsible-machine-learning/) course of the MVA Master's program , to evaluate student groups on their technical AI safety projects.
-
-**MLAB, TA, Berkeley:** I was a TA in Berkeley during the [MLAB](https://www.cbai.ai/ml-bootcamp) which was a hands-on introduction to state-of-the-art ML techniques (e.g. transformers, deep RL, mechanistic interpretability).
+[Short bio](/bio) | [CV (PDF)](pdf/CV_Segerie_2026.pdf)
 
 ---
 
-## Global Call for AI Red Lines
+## Policy & Impact
+{: #policy}
 
-![Global Call for AI Red Lines](images/global_call_image.jpg)
+### Global Call for AI Red Lines
 
-I was the initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/), an international campaign calling for governance mechanisms to prevent catastrophic risks from artificial intelligence. Read more about the campaign [here](https://www.securite-ia.fr/post/lappel-mondial-a-etablir-des-lignes-rouges). The campaign achieved:
+<div class="featured" markdown="1">
 
-- **Signatures from 10 Nobel laureates**, 9 former heads of state and ministers, industry senior staff, and 90+ organisations worldwide
-- **300 media mentions** in prestigious outlets worldwide (The New York Times, Time, BBC, NBC, Le Monde, etc.)
-- Introduction at the **UN General Assembly** by Nobel Peace laureate Maria Ressa
+I was the initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/), an international campaign calling for governance mechanisms to prevent catastrophic risks from artificial intelligence. Read more [here](https://www.securite-ia.fr/post/lappel-mondial-a-etablir-des-lignes-rouges).
+
+- **12 Nobel laureate** signatures, 10 former heads of state and ministers, 200+ total signatories
+- **300+ media mentions** worldwide (The New York Times, Time, BBC, NBC, Le Monde, AP, AFP)
+- Presented at the **UN General Assembly** by Nobel Peace laureate Maria Ressa
 - Highlighted by Yoshua Bengio at a **high-level meeting of the UN Security Council**
 
-The campaign opened a window for concrete multilateral action on AI governance and has been praised by many organizations.
+</div>
+
+![Nobel Peace laureate Maria Ressa presenting the Global Call at the UN General Assembly](gallery/global_call_image_Ressa.jpg)
+
+![AI Red Lines panel at the UN General Assembly](gallery/UNGA_AI_Safety_Connect_profil.jpg)
+
+### EU AI Act — Code of Practice
+
+Appointed **official evaluator** for the EU AI Office's Code of Practice for General-Purpose AI (2026–2028), Lot 4: Harmful Manipulation Risks — consortium with Apart Research, Transluce & EquiStamp. Contributed to all three rounds; recommendations included verbatim in the final draft.
+
+![EU AI Office evaluator consortium](gallery/consortium.jpeg)
+
+### International Engagements
+
+- **India AI Impact Summit** (Delhi, Feb. 2026) — Convened workshop "Defining and Governing Unacceptable AI Risks" with officials from the EU, Japan, Singapore, Brazil, Denmark, Canada, and UNESCO
+- **AI Action Summit** (Paris, Feb. 2025) — Co-organized AI Safety Symposium with keynotes by Y. Bengio and S. Russell; hosted official side-event with GovAI, METR, and the UN; CeSIA cited 11 times in the final consultation report
+
+![With Yoshua Bengio at the AI Action Summit press conference](gallery/Bengio_press_conference.jpg)
+- **IASEAI Workshop at UNESCO** (Feb. 2026) — Reached consensus on political bottlenecks for AI red lines with international participants and OECD representatives
+- **Frontier Safety Frameworks Workshop** — Co-organized with FAR.AI at AW London (Mar. 2026) with representatives from Anthropic, DeepMind, and other frontier labs
+- **French Senate** (Palais du Luxembourg) — Presented twice on AI risks and governance, including in front of the French AI Minister
+- Published on the **OECD AI Policy Observatory** with Stuart Russell on global AI red lines
+
+![Presenting on AI safety at the French Senate](gallery/senate-speaker.jpeg)
+
+![Athens Roundtable on AI and Law](gallery/Charbel%20TFS.jpeg)
+
+### Media & Outreach
+
+Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appeared on **TF1** (France's main TV channel), **France Inter** (France's main public radio), and numerous podcasts and YouTube programmes. Collaborated on a YouTube video on AI risks reaching **4 million views**.
+
+![Interview on TF1 — Innovation Days](gallery/TF1.jpeg)
 
 ---
 
-## Research
+## Current Positions
+{: #positions}
 
-My research focuses on AI safety. I've worked notably on the theory of RLHF and interpretability, as well as safe by design AI approaches.
-
-Noteworthy papers and blog articles:
-
-- Ségerie, C. R., Against Almost Every Theory of Impact of Interpretability, 2023
-- Ségerie, C. R., Davidad's Bold Plan for Alignment: An In-Depth Explanation, 2023
-- Ségerie, C. R., Compendium of problems with RLHF, 2023
-- Casper, S., Davies, X., Shi, C., Gilbert, T. K., Scheurer, J., Rando, J., ... & Hadfield-Menell, D. (2023). Open problems and fundamental limitations of reinforcement learning from human feedback. arXiv preprint arXiv:2307.15217
-- Laurençon, H., Ségerie, C. R., Lussange, J., & Gutkin, B. S. (2021). Continuous homeostatic reinforcement learning for self-regulated autonomous agents. arXiv preprint arXiv:2109.06580.
-
-I've supervised several small research groups during the ML4Good training bootcamps, as well as student groups from the PSC of École Polytechnique, during the "apart research" hackathons, a hackathon I organized with Collège de France on AI safety, during the Entrepreneur First hackathon organized at Meta, and during the advanced upskilling program [ARENA](https://www.arena.education/team). For a selection of projects I've supervised, please refer to the [Effisciences AI website](https://ia.effisciences.org/).
-
-I was a speaker at the international conference "Funding the Common", where I delivered a [talk](https://www.linkedin.com/feed/update/urn:li:activity:7086721216278839296/) titled "Artificial General Intelligence Alignment: Difficulties in Current Techniques & Better Preference Elicitation".
+- **Executive Director & Co-Founder**, [CeSIA](https://www.securite-ia.fr/) (Centre pour la Sécurité de l'IA), Paris — Leading a 7-person team across three strategic tracks: France, Europe, and International (2024–present)
+- **Official Evaluator**, EU AI Office GPAI Code of Practice — Lot 4: Harmful Manipulation Risks (2026–2028)
+- **OECD AI Expert**, ONE AI Expert Network (2024–present)
+- **Head Teacher**, [Turing Seminar on AGI Safety](https://www.master-mva.com/cours/seminaire-turing/), ENS Paris-Saclay (MVA Master) & ENS Ulm — Created the first university-accredited course on general-purpose AI safety in the EU (2022–present)
+- **Founder & Curriculum Designer**, [ML4Good](https://germany.ml4good.org/) — EU Commission-funded programme replicated 20+ times across Europe, Latin America, and beyond; 98% participant recommendation rate; hundreds of alumni now in AI safety careers at EU AI Office, Mistral, MATS, GPAI Policy Lab, and more (2022–present)
 
 ---
 
-## Entrepreneur
+## Publications
+{: #publications}
 
-### [Omniscience - A search engine for academic papers](https://omniscience.academy/)
+### Peer-Reviewed & Conference Papers
 
-![Omniscience](images/projects/Screenshot_omniscience.png?raw=true)
+- Bucknall, Segerie, Bengio et al. (2025). "In Which Areas of Technical AI Safety Could Geopolitical Rivals Cooperate?" **ACM FAccT 2025**.
+- Dorn, Variengien, Segerie & Corruble (2024). "BELLS: Benchmarks for the Evaluation of LLM Safeguards." **NextGenAISafety @ ICML 2024**. Included in the OECD catalogue of tools for trustworthy AI.
+- Casper, Segerie et al. (2023). "Open Problems and Fundamental Limitations of RLHF." **Transactions on Machine Learning Research (TMLR)**.
 
-I was the CTO for a year at a 5-person startup, attempting to create a search engine for academic papers. This involved trying to use LLMs to help compile literature reviews semi-automatically, fine-tuning numerous AIs for specialized tasks, and building a semantic database engine. Unfortunately, the technology was not mature enough at the time. A writeup (about part of the journey) is available [here](https://docs.google.com/document/d/1l_RuZ6tx4gejNQUKNqJJYsl5PbRx7ApLCoIndGoSMxY/edit?usp=sharing). The website is no longer functional. The code is open-source [here](https://github.com/OmniscienceAcademy).
+### Reports & Preprints
+
+- Martinet, Abecassis, Segerie, Bengio et al. (2025). "A Blueprint for Multinational Advanced AI Development." CeSIA & Oxford Martin AIGI Report.
+- Grey & Segerie (2025). "The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats." arXiv:2508.13700.
+- Grey & Segerie (2025). "Safety by Measurement: A Systematic Literature Review of AI Safety Evaluation Methods." arXiv:2505.05541.
+- Mariaccia, Segerie & Dorn (2025). "The Bitter Lesson of Misuse Detection." arXiv:2507.06282.
+- Segerie & Gédéon (2024). "Constructability: Plainly-Coded AGIs May Be Feasible in the Near Future." CeSIA Technical Report.
+- Laurençon, Ségerie, Lussange & Gutkin (2024). "Continuous Time Continuous Space Homeostatic RL." ENS / BITS Pilani collaboration.
+- Laurençon, Ségerie, Lussange & Gutkin (2021). "Continuous Homeostatic RL for Self-Regulated Agents." arXiv:2109.06580.
+
+### AI Safety Atlas
+
+- Grey, Segerie et al. (2025). [AI Safety Atlas](https://ai-safety-atlas.com/). CeSIA. Used by 1,000+ students worldwide.
+
+### Blog Posts
+
+- Ségerie, C. R. (2023). Against Almost Every Theory of Impact of Interpretability
+- Ségerie, C. R. (2023). Davidad's Bold Plan for Alignment: An In-Depth Explanation
+- Ségerie, C. R. (2023). Compendium of Problems with RLHF
 
 ---
 
-## Softwares
+## Teaching
+{: #teaching}
 
-### [Contributions to Open Source Projects](https://pricemoov.com/)
+**Turing Seminar — AGI Safety** (MVA Master, ENS Paris-Saclay & ENS Ulm): Created the **first university-accredited course on general-purpose AI safety in the EU**, at a time when virtually no European university offered such training. Course available on [YouTube](https://ia.effisciences.org/travaux/playlist-de-conferences-de-la-journee-de-formation-en-surete-de-lia); textbook: the [AI Safety Atlas](https://ai-safety-atlas.com/).
 
-![ML4Good bootcamp](images/projects/ML4Good.png?raw=true)
+![Turing Seminar lecture at ENS Ulm amphitheatre](gallery/Turing-amphitheatre-ENS-Ulm.jpeg)
 
-I've contributed to numerous open-source projects:
+![Turing Seminar panel at ENS](gallery/Turing_ens_mistral.jpg)
 
-- [ML4G](https://github.com/EffiSciencesResearch/ML4G), the repository containing the practical sessions of the AI safety upskilling bootcamps. I'm the main developer of this course.
-- [mne-bids-pipeline](https://github.com/crsegerie/mne-bids-pipeline), a template for a group study using MNE Python software, for electroencephalographies.
-- [AutoML](https://github.com/crsegerie/automl), a library that facilitates active learning across different modalities. I'm was the main contributor of this repo.
+**ML4Good Bootcamps**: Designed the curriculum for the international [ML4Good bootcamps](https://germany.ml4good.org/). The programme has been replicated 20+ times worldwide (France, Germany, Switzerland, Latin America, and beyond). EU Commission-funded. 98% participant recommendation rate.
 
----
+![ML4Good bootcamp in Brazil](gallery/ML4Good%20brazil.jpeg)
 
-### [Microeconomic Inference Library](https://pricemoov.com/)
+**Responsible ML**: Contributed to the [Responsible Machine Learning](https://www.master-mva.com/cours/responsible-machine-learning/) course (MVA Master), evaluating student groups on technical AI safety projects.
 
-![Microeconomic Inference](images/projects/mcmc.png?raw=true)
-
-I interned at PriceMoove, where I built a microeconomic inference library that utilized hierarchical Bayesian machine learning. The code is proprietary and not open-source, but I'm very proud of it.
+**MLAB, TA, Berkeley**: TA during the [MLAB](https://www.cbai.ai/ml-bootcamp) — hands-on introduction to state-of-the-art ML techniques (transformers, deep RL, mechanistic interpretability).
 
 ---
 
-## Old projects
+## AI Safety Atlas
+{: #atlas}
+
+Scientific director and co-author of the [AI Safety Atlas](https://ai-safety-atlas.com/) — a comprehensive textbook on AI safety used by 1,000+ students worldwide. The Atlas serves as the course material for the Turing Seminar and ML4Good bootcamps.
+
+---
+
+## Previous Experience
+
+- **Head of the AI Safety Unit**, EffiSciences, Paris (2022–2024) — Led the AI safety division, delivered courses at ENS Paris-Saclay and ENS Ulm, organized hackathons at Collège de France, École 42, Meta, and ENS Ulm, supervised student research on interpretability and AI safety
+- **CTO**, [Omniscience](https://github.com/OmniscienceAcademy) (startup), Paris (2021–2022) — Built a search engine for semi-automated literature reviews using NLP and semantic retrieval
+- **Research Intern**, Inria Parietal & NeuroSpin (CEA), Saclay (2021) — Machine learning for neuroimaging: EEG/fMRI statistical methods and brain-computer interfaces
+
+---
+
+## Education
+
+- **MVA Master** (Mathematics, Vision, Learning), ENS Paris-Saclay (2020–2021)
+- **Engineering Degree**, École Nationale des Ponts et Chaussées (2017–2019)
+
+---
+
+<details>
+<summary>Open Source Software</summary>
+
+<p>I've contributed to several open-source projects:</p>
+
+<ul>
+<li><a href="https://github.com/EffiSciencesResearch/ML4G">ML4G</a> — Repository containing practical sessions of the AI safety bootcamps. Main developer.</li>
+<li><a href="https://github.com/crsegerie/mne-bids-pipeline">mne-bids-pipeline</a> — Template for group EEG studies using MNE Python.</li>
+<li><a href="https://github.com/crsegerie/automl">AutoML</a> — Active learning library across different modalities. Main contributor.</li>
+</ul>
+
+</details>
+
+<details>
+<summary>Earlier Research & Student Projects</summary>
 
 <h3><a href="https://github.com/crsegerie/numerical_imaging">SinGAN analysis with PatchMatch algorithm</a></h3>
 <img src="images/projects/SinGAN.png?raw=true"/>
-SinGAN is a generative model that can be learned from a single natural image. We propose a rigorous method to evaluate the image creation capabilities of a GAN using the PatchMatch algorithm.
+<p>SinGAN is a generative model that can be learned from a single natural image. We propose a rigorous method to evaluate the image creation capabilities of a GAN using the PatchMatch algorithm.</p>
 
----
-
-<h3><a href="https://github.com/crsegerie/modular_neural_networks">I've proposed a new attention architecture</a></h3>
+<h3><a href="https://github.com/crsegerie/modular_neural_networks">A new attention architecture</a></h3>
 <img src="images/projects/architecture.PNG?raw=true"/>
-
-The human brain combines top-down and bottom-up signals. Bottom-up signals result from direct perception, while top-down signals take into account past experience.
-
----
+<p>The human brain combines top-down and bottom-up signals. Bottom-up signals result from direct perception, while top-down signals take into account past experience.</p>
 
 <h3><a href="https://github.com/clement-bonnet/belief-propagation">Graphical Models</a></h3>
 <img src="images/projects/Factorgraph.jpg?raw=true"/>
-
-I worked on the Belief Propagation algorithm, and unified the notations between causal Bayesian graphs and factor graphs. Take the time to look at our report, which contains some very nice maths. We have also written a very versatile implementation of the belief propagation algorithm for factor graphs.
-
----
+<p>Worked on the Belief Propagation algorithm, unifying notations between causal Bayesian graphs and factor graphs.</p>
 
 <h3><a href="https://github.com/crsegerie/bayesian_nearest_neighbors">Bayesian Machine Learning</a></h3>
 <img src="images/projects/bayesian_machine_learning.png?raw=true"/>
-
-I've worked on the coherence of the nearest neighbor algorithm with the Bayesian axioms of probability. This project required the writing of highly optimized Numba routines.
-
----
+<p>Worked on the coherence of the nearest neighbor algorithm with Bayesian axioms of probability.</p>
 
 <h3><a href="https://github.com/crsegerie/3D-computer-vision">3D Computer Vision</a></h3>
 <img src="images/projects/3D_reconstruction.jpg?raw=true"/>
+<p>Reconstructed a face in 3D from two photos.</p>
 
-In this repository, you will find my work done during the course of 3D computer vision. During the last TP, we reconstructed a face in 3D from two photos.
+</details>
 
----
-
-<!-- ### My project in Data science
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
---- -->
-
-## Neuroimaging
+<details>
+<summary>Neuroimaging Projects</summary>
 
 <h3><a href="https://github.com/crsegerie/bci_competition">BCI Competition</a></h3>
 <img src="images/projects/BCI_Compet.jpg?raw=true"/>
-
-Here is a solution to the Inria-BCI competition. This solution would be ranked 4th in the original competition.
-
----
+<p>A solution to the Inria-BCI competition, ranked 4th in the original competition.</p>
 
 <h3><a href="https://github.com/crsegerie/project_all_resolution_inference">fMRI Statistics</a></h3>
 <img src="images/projects/all_resolution_inference.PNG?raw=true"/>
-
-In this repository you will find an efficient implementation of the paper *All resolution inference for brain imaging*. This paper proposes a new methodology to construct brain statistics when using fMRI data.
-
----
+<p>Efficient implementation of <em>All resolution inference for brain imaging</em>.</p>
 
 <h3><a href="https://github.com/crsegerie/welcome_duty">EEG Analysis</a></h3>
 <img src="images/projects/source_reconstruction.PNG?raw=true"/>
+<p>MEG signal analysis methodology using the MNE library.</p>
 
-In this repo, I apply the methodology of MEG signal analysis using the MNE library.
+</details>
 
-<!-- ---
+<details>
+<summary>Competitions</summary>
 
-[Brain Parcellation](https://drive.google.com/file/d/1-VT9Q6qrTlRcIzW2x7wWg_TaFNhuTnKn/view?usp=sharing)
-<img src="images/projects/ward_parcellation.png?raw=true"/>
-I worked on brain parcellation using Ward's statistics.
--->
----
-
-## Competitions
-
-<h3><a href="https://github.com/crsegerie/kiro2018">KIRO2018</a></h3>
+<h3><a href="https://github.com/crsegerie/kiro2018">KIRO 2018 — Winner</a></h3>
 <img src="images/projects/air_france.jpg?raw=true"/>
+<p>Winner's solution in partnership with Air France. Iterative solution to the scheduling problem of the Air France aircraft fleet.</p>
 
-In this repository, you will find the winner's solution of the KIRO2018, in partnership with Air France. We build in an iterative way a solution to the scheduling problem of the Air France aircraft fleet.
-
----
-
-<h3><a href="https://github.com/crsegerie/kiroptimiste/tree/master">KIRO2019</a></h3>
+<h3><a href="https://github.com/crsegerie/kiroptimiste/tree/master">KIRO 2019 — Winner</a></h3>
 <img src="images/projects/5G.jpg?raw=true"/>
+<p>Winner's solution for the 5G network optimization competition.</p>
 
-In this repository, you will find the winner's solution of the extended competition of the KIRO2019. We efficiently built the graph of 5G antennas connected by optical fiber in major French cities.
+</details>
 
----
-
-## Fun
+<details>
+<summary>Fun</summary>
 
 <h3><a href="https://www.lesswrong.com/posts/Ru2cDrre6D4gkf734/my-intellectual-journey-to-solve-the-hard-problem-of">Consciousness</a></h3>
-<img src=https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Ru2cDrre6D4gkf734/gdmnd3oxiw3jucut71ky?/>
-
-In this blog post, I claim to have disolved the hard problem of consciousness.
-
----
+<p>A blog post claiming to have dissolved the hard problem of consciousness.</p>
 
 <h3><a href="pdf/Biostatistics_Exam_Segerie.pdf">Biostatistics</a></h3>
-<img src="images/projects/covid.jpg?raw=true"/>
+<p>A critique of the statistical methodology used by two highly cited papers written at the beginning of the Covid epidemic.</p>
 
-In this paper written to validate the Biostatistics course, I critique/destroy the statistical methodology used by two highly cited papers written at the beginning of the Covid epidemic.
-
----
-
-<h3><a href="https://colab.research.google.com/drive/11hX10ErHX1yGKVAHHJs4iYjJkjsTXoeZ?usp=sharing">Automatic boogie woogie Generation</a></h3>
-<img src="images/projects/boogie.png?raw=true"/>
-
-Boogie-Woogie is great fun to play on the piano, and it's also pretty easy to automate.
-
----
+<h3><a href="https://colab.research.google.com/drive/11hX10ErHX1yGKVAHHJs4iYjJkjsTXoeZ?usp=sharing">Automatic Boogie Woogie Generation</a></h3>
+<p>Boogie-Woogie is great fun to play on the piano, and it's also pretty easy to automate.</p>
 
 <h3><a href="https://omniscience.academy">Gestalt Essay</a></h3>
-<img src="images/projects/Escher.jpg?raw=true"/>
+<p>Using concepts from Gestalt psychology to describe patterns in Escher's birds — in a way the ancestor of neural network interpretability.</p>
 
-In this essay, I use concepts from Gestalt psychology to describe the patterns of the birds of Escher and I play with the attention of the viewer. Gestalt psychology is in a way the ancestor of the interpretability of neural networks in vision processing.
+</details>
 
 ---
+{: #projects}

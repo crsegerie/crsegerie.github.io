@@ -1,4 +1,11 @@
 # Short Bio
 
-Charbel-Raphael Segerie is the executive director of CeSIA, the French Center for AI Safety, and he is an OECD AI expert. He initiated and co-lead the Global Call for AI Red Lines, which was presented in the UN General Assembly. 
-He was previously Head of AI at EffiSciences, and founded ML4Good, an AI safety bootcamp designed for researchers, which has now been reproduced 15 times worldwide. He created the curriculum for an AI safety course at ENS, which was the first university-accredited course in the EU on general-purpose AI safety. He has experience in the industry as a startup CTO and has worked in different French research institutions (Inria, Neurospin). He was the capstone teacher at Arena and taught AI Safety in Berkeley for the MLAB. His research focuses on identifying emerging risks in AI, and he has published influential pieces on the limitations of current safety methods, such as RLHF and mechanistic interpretability and AI risk evaluations. He contributed to the EU AI Office’s Code of Practice for general-purpose AI systems.
+Charbel-Raphaël Segerie is the Executive Director of CeSIA, the French Center for AI Safety, and an OECD AI Expert. He is an official evaluator for the EU AI Office's Code of Practice on harmful manipulation risks (2026–2028).
+
+He initiated and co-led the Global Call for AI Red Lines, endorsed by 12 Nobel laureates and 10 former heads of state, presented at the UN General Assembly by Nobel Peace laureate Maria Ressa, and highlighted by Yoshua Bengio at the UN Security Council. The campaign received 300+ media mentions worldwide (NYT, BBC, Le Monde, TIME, NBC).
+
+He founded ML4Good, an EU Commission-funded AI safety programme replicated 20+ times worldwide with a 98% participant recommendation rate. He created the curriculum for an AI safety course at ENS Paris-Saclay and ENS Ulm — the first university-accredited course on general-purpose AI safety in the EU. He is the scientific director of the AI Safety Atlas, used by 1,000+ students worldwide.
+
+He was previously Head of AI Safety at EffiSciences, and has experience in the industry as a startup CTO (Omniscience). He has worked in French research institutions (Inria Parietal, NeuroSpin/CEA). His research focuses on identifying emerging risks in AI, with publications at ACM FAccT, ICML, and TMLR on RLHF limitations, LLM safeguards, and AI safety evaluation methods.
+
+He convened workshops at the India AI Impact Summit (2026), co-organized the AI Safety Symposium at the AI Action Summit (2025), and has presented twice at the French Senate on AI risks and governance. He has appeared on TF1, France Inter, and collaborated on a YouTube video on AI risks reaching 4 million views.
