@@ -52,6 +52,8 @@ Appointed **official evaluator** for the EU AI Office's Code of Practice for Gen
 
 ![Presenting on AI safety at the French Senate](gallery/senate-speaker.jpeg)
 
+![Palais du Luxembourg — French Senate](gallery/Senate-prestige.jpeg)
+
 ![Athens Roundtable on AI and Law](gallery/Charbel%20TFS.jpeg)
 
 ### Media & Outreach
@@ -116,6 +118,8 @@ Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appea
 **ML4Good Bootcamps**: Designed the curriculum for the international [ML4Good bootcamps](https://germany.ml4good.org/). The programme has been replicated 20+ times worldwide (France, Germany, Switzerland, Latin America, and beyond). EU Commission-funded. 98% participant recommendation rate.
 
 ![ML4Good bootcamp in Brazil](gallery/ML4Good%20brazil.jpeg)
+
+![Making friends along the way](gallery/ML4Good%20and%20parrot.jpeg)
 
 **Responsible ML**: Contributed to the [Responsible Machine Learning](https://www.master-mva.com/cours/responsible-machine-learning/) course (MVA Master), evaluating student groups on technical AI safety projects.
 
