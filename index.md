@@ -7,7 +7,7 @@
 <a href="#projects">Earlier Projects</a>
 </div>
 
-AI safety researcher, policy expert at the intersection of technical AI safety research and international governance. Executive Director of [CeSIA](https://www.securite-ia.fr/), which he co-founded in 2024 after creating the first university-accredited course on general-purpose AI safety in the EU (ENS, 2022). Initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/) — endorsed by 12 Nobel laureates and presented at the UN General Assembly and Security Council. He is member of the IASEAI Concil.
+AI safety researcher, policy expert at the intersection of technical AI safety research and international governance. Executive Director of [CeSIA](https://www.securite-ia.fr/), the French Center for AI Security — a think tank and expert center — which he co-founded in 2024 after creating the first university-accredited course on general-purpose AI safety in the EU (ENS, 2022). Initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/) — endorsed by 12 Nobel laureates and presented at the UN General Assembly and Security Council. He is member of the IASEAI Concil.
 
 [Short bio](/bio) | [CV (PDF)](pdf/CV_Segerie_2026.pdf)
 
