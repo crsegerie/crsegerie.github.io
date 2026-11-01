@@ -1,17 +1,53 @@
 title: Charbel-Raphaël Segerie # your name (or website title) here
-logo: "/images/fairshot.png?raw=true" # your photo (or logo) here
-description:
-  >
+tagline: Executive Director of CeSIA, the Center for AI Security
+logo: "/images/headshot.webp" # your photo (or logo) here
+# Plain-text summary used for the <title>, meta description and link previews.
+description: >-
+  Executive Director of CeSIA, the Center for AI Security, an international think tank
+  and expert center. Initiator of the Global Call for AI Red Lines and OECD AI Expert.
+# HTML shown under the photo in the sidebar.
+sidebar: >
   Executive Director, <a href="https://www.securite-ia.fr/">CeSIA</a><br>
-  (French Center for AI Security, think tank &amp; expert center)<br><br>
+  (Center for AI Security, an international think tank &amp; expert center)<br><br>
   EU AI Act, GPAI Code of Practice Evaluator<br>
   OECD AI Expert<br><br>
   <a href="https://www.linkedin.com/in/charbel-raphael-segerie/">LinkedIn</a> &middot;
-  <a href="https://twitter.com/CRSegerie">Twitter</a> &middot;
+  <a href="https://x.com/CRSegerie">X</a> &middot;
   <a href="https://scholar.google.com/citations?user=i6qPlh8AAAAJ">Scholar</a> &middot;
   <a href="https://github.com/crsegerie">GitHub</a>
+image: /images/og-image.jpg
+author:
+  name: Charbel-Raphaël Segerie
+  twitter: CRSegerie
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/og-image.jpg
+twitter:
+  username: CRSegerie
+  card: summary_large_image
+social:
+  name: Charbel-Raphaël Segerie
+  links:
+    - https://x.com/CRSegerie
+    - https://www.linkedin.com/in/charbel-raphael-segerie/
+    - https://scholar.google.com/citations?user=i6qPlh8AAAAJ
+    - https://github.com/crsegerie
+    - https://www.lesswrong.com/users/charbel-raphael
 show_downloads: false
 google_analytics: G-YX1855DGFB
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 baseurl:
-url: https://crsegerie.github.io
+url: https://crsegerie.com
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-minimal.gemspec
+  - LICENSE
+  - script
+  - docs

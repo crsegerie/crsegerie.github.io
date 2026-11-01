@@ -1,6 +1,6 @@
 # Short Bio
 
-Charbel-Raphaël Segerie is the Executive Director of CeSIA, the French Center for AI Security, a think tank and expert center, and an OECD AI Expert. CeSIA is part of the official evaluator consortium for the EU AI Office's Code of Practice on harmful manipulation risks (2026–2028), having contributed to all three drafting rounds with recommendations included verbatim in the final text. He has been elected as member of the Council at IASEAI, the International Association for Safe and Ethical AI.
+Charbel-Raphaël Segerie is the Executive Director of CeSIA, the Center for AI Security, an international think tank and expert center, and an OECD AI Expert. CeSIA is part of the official evaluator consortium for the EU AI Office's Code of Practice on harmful manipulation risks (2026–2028), having contributed to all three drafting rounds with recommendations included verbatim in the final text. He has been elected as member of the Council at IASEAI, the International Association for Safe and Ethical AI.
 
 He initiated and co-led the Global Call for AI Red Lines, endorsed by 12 Nobel laureates and 10 former heads of state, presented at the UN General Assembly by Nobel Peace laureate Maria Ressa, and highlighted by Yoshua Bengio at the UN Security Council. The campaign received 300+ media mentions worldwide (NYT, BBC, Le Monde, TIME, NBC).
 

@@ -2,3 +2,38 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 16px 0 28px;
+}
+
+.gallery figure {
+  margin: 0;
+}
+
+.gallery figure.wide {
+  grid-column: 1 / -1;
+}
+
+.gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  margin: 0;
+}
+
+.gallery figure.wide img {
+  aspect-ratio: auto;
+}
+
+.gallery figcaption {
+  font-size: 13px;
+  line-height: 1.4;
+  color: #666;
+  margin-top: 6px;
+}
