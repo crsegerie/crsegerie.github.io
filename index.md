@@ -9,7 +9,7 @@
 
 AI safety researcher, policy expert at the intersection of technical AI safety research and international governance. Executive Director of [CeSIA](https://www.securite-ia.fr/), the Center for AI Security, an international think tank and expert center, which he co-founded in 2024 after creating the first university-accredited course on general-purpose AI safety in the EU (ENS, 2022). Initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/) — endorsed by 12 Nobel laureates and presented at the UN General Assembly and Security Council. He is member of the IASEAI Council.
 
-[Short bio](/bio) | [CV (PDF)](pdf/CV_Segerie_2026.pdf)
+[Short bio](/bio) | [CV (PDF)](pdf/CV_Segerie_2026.pdf) | Press & speaking: [charbel@cesia.org](mailto:charbel@cesia.org)
 
 ---
 
@@ -60,7 +60,7 @@ CeSIA is part of the **official evaluator consortium** for the EU AI Office's Co
 
 ### Media & Outreach
 
-Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appeared on **TF1** (France's main TV channel), **France Inter** (France's main public radio), and numerous podcasts and YouTube programmes. Collaborated on a YouTube video on AI risks reaching **4 million views**.
+Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appeared on **TF1** (France's main TV channel), **France Inter** (France's main public radio), and numerous podcasts and YouTube programmes. Collaborated on a YouTube video on AI risks reaching **5 million views**.
 
 <div class="gallery">
 <figure><img src="gallery/web/tf1.webp" alt="Interview on TF1 — Innovation Days" loading="lazy"><figcaption>Interview on TF1 — Innovation Days</figcaption></figure>
