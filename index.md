@@ -110,7 +110,6 @@ Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appea
 - [A CERN for AI is a distraction; push for an IAEA instead](https://www.lesswrong.com/posts/fPLCiCKjNiWhYD2mb/a-cern-for-ai-is-a-distraction-push-for-an-iaea-instead) (Jul. 2026)
 - [The Invisible Side of AI Governance](https://www.lesswrong.com/posts/AWKkDLDnShemNCSzZ/the-invisible-side-of-ai-governance) (Jun. 2026)
 - [OpenAI's red line for AI self-improvement is fundamentally flawed](https://www.lesswrong.com/posts/6CYszKLnCagYyEiLM/openai-s-red-line-for-ai-self-improvement-is-fundamentally) (May 2026)
-- [Basics of How Not to Die](https://www.lesswrong.com/posts/dHFrKjgTC3zPfpodr/basics-of-how-not-to-die) (Jan. 2026)
 - [AI Red Lines: A Research Agenda](https://www.lesswrong.com/posts/YAuyGwFAEyqWqgZGx/ai-red-lines-a-research-agenda) (Nov. 2025)
 - [A Call for Better Risk Modelling](https://www.lesswrong.com/posts/JrL2xpsPE6GbGWPbL/a-call-for-better-risk-modelling) (Nov. 2025)
 - [Global Call for AI Red Lines — Signed by Nobel Laureates, Former Heads of State, and 200+ Prominent Figures](https://www.lesswrong.com/posts/vKA2BgpESFZSHaQnT/global-call-for-ai-red-lines-signed-by-nobel-laureates) (Sep. 2025)
