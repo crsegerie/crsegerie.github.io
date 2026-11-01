@@ -1,4 +1,5 @@
 <div class="nav-bar" markdown="0">
+<a href="/takes">Takes</a> |
 <a href="#policy">Policy & Impact</a> |
 <a href="#roles">Roles</a> |
 <a href="#publications">Publications</a> |
@@ -9,7 +10,7 @@
 
 AI safety researcher, policy expert at the intersection of technical AI safety research and international governance. Executive Director of [CeSIA](https://www.securite-ia.fr/), the Center for AI Security, an international think tank and expert center, which he co-founded in 2024 after creating the first university-accredited course on general-purpose AI safety in the EU (ENS, 2022). Initiator and co-lead of the [Global Call for AI Red Lines](https://red-lines.ai/) — endorsed by 12 Nobel laureates and presented at the UN General Assembly and Security Council. He is member of the IASEAI Council.
 
-[Short bio](/bio) | [CV (PDF)](pdf/CV_Segerie_2026.pdf) | Press & speaking: [charbel@cesia.org](mailto:charbel@cesia.org)
+[Short bio](/bio) | [Selected takes](/takes) | [CV (PDF)](pdf/CV_Segerie_2026.pdf) | Press & speaking: [charbel@cesia.org](mailto:charbel@cesia.org)
 
 ---
 
