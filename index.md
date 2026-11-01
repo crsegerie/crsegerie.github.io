@@ -102,7 +102,22 @@ Featured or cited in **Le Monde**, **NBC**, **The Verge**, **Les Échos**. Appea
 
 - Grey, Segerie et al. (2025). [AI Safety Atlas](https://ai-safety-atlas.com/). CeSIA. Used by 1,000+ students worldwide.
 
-### Blog Posts
+### Recent Writing
+
+- [There is a channel to 900M weekly users. What goes in it?](https://www.lesswrong.com/posts/gJJ9YHzuBvwAXrthW/there-is-a-channel-to-900m-weekly-users-what-goes-in-it) (Sep. 2026)
+- [OpenAI has already ended an internal pause](https://www.lesswrong.com/posts/k3eKqKzq4Y7xnqEfZ/openai-has-already-ended-an-internal-pause) (Jul. 2026)
+- [The current bottleneck is political will, not research](https://www.lesswrong.com/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research) (Jul. 2026)
+- [A CERN for AI is a distraction; push for an IAEA instead](https://www.lesswrong.com/posts/fPLCiCKjNiWhYD2mb/a-cern-for-ai-is-a-distraction-push-for-an-iaea-instead) (Jul. 2026)
+- [The Invisible Side of AI Governance](https://www.lesswrong.com/posts/AWKkDLDnShemNCSzZ/the-invisible-side-of-ai-governance) (Jun. 2026)
+- [OpenAI's red line for AI self-improvement is fundamentally flawed](https://www.lesswrong.com/posts/6CYszKLnCagYyEiLM/openai-s-red-line-for-ai-self-improvement-is-fundamentally) (May 2026)
+- [Basics of How Not to Die](https://www.lesswrong.com/posts/dHFrKjgTC3zPfpodr/basics-of-how-not-to-die) (Jan. 2026)
+- [AI Red Lines: A Research Agenda](https://www.lesswrong.com/posts/YAuyGwFAEyqWqgZGx/ai-red-lines-a-research-agenda) (Nov. 2025)
+- [A Call for Better Risk Modelling](https://www.lesswrong.com/posts/JrL2xpsPE6GbGWPbL/a-call-for-better-risk-modelling) (Nov. 2025)
+- [Global Call for AI Red Lines — Signed by Nobel Laureates, Former Heads of State, and 200+ Prominent Figures](https://www.lesswrong.com/posts/vKA2BgpESFZSHaQnT/global-call-for-ai-red-lines-signed-by-nobel-laureates) (Sep. 2025)
+
+All posts on [LessWrong](https://www.lesswrong.com/users/charbel-raphael) · more on [X](https://x.com/CRSegerie).
+
+### Earlier Blog Posts
 
 - Ségerie, C. R. (2023). Against Almost Every Theory of Impact of Interpretability
 - Ségerie, C. R. (2023). Davidad's Bold Plan for Alignment: An In-Depth Explanation
